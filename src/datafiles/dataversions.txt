@@ -1,0 +1,6 @@
+North Atlantic: v1.0 (2021)
+East Pacific: v1.0 (2021)
+West Pacific: v1.0 (2020)
+North Indian: v1.0 (2020)
+South Indian: v1.0 (2019-2020)
+South Pacific: v1.0 (2019-2020)
